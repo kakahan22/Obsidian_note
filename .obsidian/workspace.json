@@ -11,14 +11,15 @@
             "id": "448ee643c3a8d9af",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "深度学习/数据处理.md",
-                "mode": "source",
-                "source": false
+                "aFile": "深度学习/数据处理.md",
+                "bFile": "深度学习/数据处理.md",
+                "aRef": "HEAD",
+                "bRef": ""
               },
-              "icon": "lucide-file",
-              "title": "数据处理"
+              "icon": "diff",
+              "title": "Diff: 数据处理  (Index)"
             }
           }
         ]
@@ -199,10 +200,10 @@
   },
   "active": "448ee643c3a8d9af",
   "lastOpenFiles": [
-    "科研入门/找论文.md",
-    "科研入门/科研名词扫盲.md",
     "深度学习/数据处理.md",
     "深度学习/机器学习.md",
+    "科研入门/找论文.md",
+    "科研入门/科研名词扫盲.md",
     "深度学习/图片/屏幕截图 2026-08-31 003031.png",
     "深度学习/环境配置.md",
     "深度学习/图片/屏幕截图 2026-08-29 170138.png",
