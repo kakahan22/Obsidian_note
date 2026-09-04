@@ -117,6 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "深度学习/机器学习.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -183,7 +184,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 273.89996337890625
   },
   "left-ribbon": {
     "hiddenItems": {
