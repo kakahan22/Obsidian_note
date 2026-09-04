@@ -83,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 342.3000183105469
+    "width": 200
   },
   "right": {
     "id": "faf4f8d8a68f4bc4",
@@ -183,7 +183,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,8 +200,8 @@
   "active": "448ee643c3a8d9af",
   "lastOpenFiles": [
     "深度学习/数据处理.md",
-    "深度学习/环境配置.md",
     "深度学习/机器学习.md",
+    "深度学习/环境配置.md",
     "科研入门/找论文.md",
     "科研入门/科研名词扫盲.md",
     "深度学习/图片/屏幕截图 2026-08-31 003031.png",
