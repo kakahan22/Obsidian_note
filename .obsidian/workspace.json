@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "深度学习/未命名.md",
+                "file": "深度学习/模型基本.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "模型基本"
             }
           }
         ]
@@ -201,7 +201,7 @@
   "active": "448ee643c3a8d9af",
   "lastOpenFiles": [
     "深度学习/机器学习.md",
-    "深度学习/未命名.md",
+    "深度学习/模型基本.md",
     "深度学习/图片/截屏2026-09-05 16.28.04.png",
     "深度学习/图片/屏幕截图 2026-09-04 223643.png",
     "深度学习/图片/屏幕截图 2026-09-04 223333.png",
