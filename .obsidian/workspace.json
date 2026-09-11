@@ -25,14 +25,17 @@
             "id": "d7d0757d3478e6ee",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "深度学习/未命名.md",
-                "mode": "source",
-                "source": false
+                "file": "论文/综述/llm security.canvas",
+                "viewState": {
+                  "x": -18.515278818431085,
+                  "y": 28.073485122490467,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "未命名"
+              "icon": "lucide-layout-dashboard",
+              "title": "llm security"
             }
           }
         ],
@@ -215,8 +218,11 @@
   },
   "active": "d7d0757d3478e6ee",
   "lastOpenFiles": [
-    "深度学习/模型基本.md",
     "深度学习/未命名.md",
+    "论文/综述/llm security.canvas",
+    "论文/综述",
+    "论文",
+    "深度学习/模型基本.md",
     "项目/深度学习/预测房价.md",
     "项目/图片/截屏2026-09-10 20.49.17_副本.png",
     "项目/图片/截屏2026-09-10 20.49.17.png",
@@ -243,8 +249,6 @@
     "未命名.canvas",
     "未命名.base",
     "2026-08-29.md",
-    "深度学习/图片",
-    "深度学习/新建文件夹",
     "Nature-Skills.md",
     "创建链接.md",
     "2026-08-07.md",
